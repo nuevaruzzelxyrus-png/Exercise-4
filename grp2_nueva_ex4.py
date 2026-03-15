@@ -1,5 +1,4 @@
-# Task #1: Arithmetic Operations for int, float, and complex
-# Integer Operations (Addition, Subtraction, Multiplication, Division, Modulus, Exponent)
+# Task #1: Arithmetic Operations for int, float, and complex Integer Operations (Addition, Subtraction, Multiplication, Division, Modulus, Exponent)
 num1_int = 10
 num2_int = 3
 print(num1_int + num2_int)
